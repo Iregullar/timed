@@ -1,1 +1,1 @@
-### Dızlayıcı proje. 
+pip freeze > requirements.txt
