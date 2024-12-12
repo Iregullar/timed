@@ -1,4 +1,4 @@
 📝
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Iregullar/timed)
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Iregullar/Iregullar/timed"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
